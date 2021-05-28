@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: cyan;
+    text-align: center;
+    padding: 10px;
+
+}
+body h1{
+    display: inline-block;
+    width: 400px;
+    font-weight: 700;
+
+
+}
+body p{
+   display: inline-block;
+   width: 400px;
+   font-weight: 200;
+ 
+}
+
+.subtitle{
+    background-color: rgb(201, 46, 193);
+    font-size: 16px;
+    margin-top: 0px;
+    padding: 12px;
+    text-align: center;
+    
+}
+
+h3{
+    margin-left: 400px;  
+    font-size: 36px;
+    margin-top: 60px;
+}
+
+dl{
+   margin-left: 400px;
+}
+dt{
+    font-size: 24px;
+    margin-top: 30px;
+    width: 450px;
+}
+dd{
+    margin: 0px;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.first{
+    display: inline-block; width: 68%;
+    width: 300px;
+}
+
+img{
+    width: 200px;
+    margin-left: 320px;
+    vertical-align: top;
+}
+ul{
+    margin-left: 380px;
+    font-size: 20px;
+}
